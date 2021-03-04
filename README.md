@@ -6,6 +6,4 @@ consolidated some ofthe redundant lines in CSS to one class versus 3.
  
 Here's the screen shot image of index file:
 
-![Code_Refactor](code_refactor_screencapture.png)
-
-Move along.
+![Code_Refactor](./assets/images/code_refactor_screencapture.png?raw=true "Screen Capture")
